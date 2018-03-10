@@ -10,5 +10,6 @@ package modelo;
  * @author ESTUDIANTES
  */
 public class Alcantarillado {
-    
+    //holaaa
+    //private 
 }
